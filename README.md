@@ -27,7 +27,7 @@ const Developer = {
     status: "Building the future, one pixel at a time",
     
     code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-    frameworks: ["React", "Next.js", "Node.js", "Express"],
+    frameworks: ["React", "Next.js", "Node.js", "SpringBoot","Angular"],
     design: ["Photoshop", "Illustrator", "Figma", "Canva"],
     
     currentMission: "Creating digital experiences that matter",
@@ -70,7 +70,7 @@ const Developer = {
 <br><strong>Java</strong>
 </td>
 <td align="center" width="200">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
 <br><strong>C++</strong>
 </td>
 <td align="center" width="200">
@@ -113,19 +113,6 @@ const Developer = {
 
 ---
 
-## 📊 NEURAL NETWORK STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=boubakri-elaa&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=boubakri-elaa&theme=synthwave&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF0080&currStreakLabel=00F7FF" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boubakri-elaa&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boubakri-elaa&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF0080&point=00F7FF" width="48%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=boubakri-elaa&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
-</div>
 
 ---
 
@@ -195,7 +182,6 @@ const skills = {
         database: "██████████████████░░ 90%"
     },
     design: {
-        uiux:     "████████████████████ 98%",
         graphics: "███████████████████░ 95%",
         branding: "█████████████████░░░ 88%"
     },
@@ -206,23 +192,6 @@ const skills = {
     }
 };
 ```
-
----
-
-## 🎨 DESIGN PORTFOLIO HIGHLIGHTS
-
-<div align="center">
-
-| Project Type | Tools Used | Status |
-|:------------:|:----------:|:------:|
-| 🎭 Brand Identity | Illustrator, Photoshop | ✅ Complete |
-| 🌐 Web Design | Figma, React | ✅ Complete |
-| 📱 Mobile UI/UX | Figma, Canva | 🔄 In Progress |
-| 🎬 Motion Graphics | After Effects | 🔄 In Progress |
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
 
 ---
 
