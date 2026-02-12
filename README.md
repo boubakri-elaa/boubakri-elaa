@@ -10,15 +10,6 @@
 
 ### ⚡ SYSTEM STATUS: ONLINE ⚡
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  [████████████████████████████] 100% LOADED                  ║
-║  >> Initializing Neural Networks...                          ║
-║  >> Loading Creative Modules...                              ║
-║  >> Establishing Connection...                               ║
-║  >> STATUS: READY TO INNOVATE                                ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
