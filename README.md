@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 WELCOME TO THE MATRIX 🌐
+# 🌐 WELCOME TO MY WORLD 🌐
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Designer;Tech+Innovator;Building+The+Future" alt="Typing SVG" />
 
@@ -8,23 +8,9 @@
 
 ---
 
-### ⚡ SYSTEM STATUS: ONLINE ⚡
-
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  [████████████████████████████] 100% LOADED                  ║
-║  >> Initializing Neural Networks...                          ║
-║  >> Loading Creative Modules...                              ║
-║  >> Establishing Connection...                               ║
-║  >> STATUS: READY TO INNOVATE                                ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ---
 
-## 🔮 ABOUT THE ARCHITECT
+## 🔮 ABOUT ME
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
@@ -35,7 +21,7 @@ const Developer = {
     location: "Tunisia 🇹🇳",
     status: "Building the future, one pixel at a time",
     
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "PHP"],
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C", "PHP","Dart","C#"],
     frameworks: ["React", "Angular", "Spring Boot", "Laravel", "Flutter"],
     design: ["Photoshop", "Illustrator", "Figma", "Canva"],
     
@@ -123,48 +109,7 @@ const Developer = {
 </tr>
 </table>
 
-### 🎨 Design Matrix
 
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" width="65" height="65" />
-<br><strong>Photoshop</strong>
-</td>
-<td align="center" width="200">
-<img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="65" height="65" />
-<br><strong>Illustrator</strong>
-</td>
-<td align="center" width="200">
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="65" height="65" />
-<br><strong>Figma</strong>
-</td>
-<td align="center" width="200">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="65" height="65" />
-<br><strong>Canva</strong>
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-</div>
-
----
-
-## 📊 NEURAL NETWORK STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=boubakri-elaa&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=boubakri-elaa&theme=synthwave&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF0080&currStreakLabel=00F7FF" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boubakri-elaa&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boubakri-elaa&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF0080&point=00F7FF" width="48%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=boubakri-elaa&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
-</div>
 
 ---
 
@@ -249,23 +194,6 @@ const skills = {
 
 ---
 
-## 🎨 DESIGN PORTFOLIO HIGHLIGHTS
-
-<div align="center">
-
-| Project Type | Tools Used | Status |
-|:------------:|:----------:|:------:|
-| 🎭 Brand Identity | Illustrator, Photoshop | ✅ Complete |
-| 🌐 Web Design | Figma, React | ✅ Complete |
-| 📱 Mobile UI/UX | Figma, Flutter | 🔄 In Progress |
-| 🎬 Graphics Design | Photoshop, Canva | ✅ Complete |
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
----
-
 ## 🌟 COLLABORATION PROTOCOLS
 
 <div align="center">
@@ -303,6 +231,6 @@ const skills = {
 
 ![](https://komarev.com/ghpvc/?username=boubakri-elaa&style=for-the-badge&color=00F7FF)
 
-**✨ Crafted with 💜 and ⚡ by [Elaa Boubakri]**
+**✨ Crafted with 💜 and ⚡ by Elaa Boubakri**
 
 </div>
