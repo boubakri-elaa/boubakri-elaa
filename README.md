@@ -5,9 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Designer;Tech+Innovator;Building+The+Future" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
----
-
 ---
 
 ## 🔮 ABOUT ME
@@ -108,6 +105,30 @@ const Developer = {
 </td>
 </tr>
 </table>
+### 🎨 Design Matrix
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" width="65" height="65" />
+<br><strong>Photoshop</strong>
+</td>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="65" height="65" />
+<br><strong>Illustrator</strong>
+</td>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="65" height="65" />
+<br><strong>Figma</strong>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="65" height="65" />
+<br><strong>Canva</strong>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 
 
