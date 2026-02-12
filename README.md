@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🌐 WELCOME TO THE MATRIX 🌐
@@ -11,6 +10,15 @@
 
 ### ⚡ SYSTEM STATUS: ONLINE ⚡
 
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  [████████████████████████████] 100% LOADED                  ║
+║  >> Initializing Neural Networks...                          ║
+║  >> Loading Creative Modules...                              ║
+║  >> Establishing Connection...                               ║
+║  >> STATUS: READY TO INNOVATE                                ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -27,8 +35,8 @@ const Developer = {
     location: "Tunisia 🇹🇳",
     status: "Building the future, one pixel at a time",
     
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-    frameworks: ["React", "Next.js", "Node.js", "SpringBoot","Angular"],
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "PHP"],
+    frameworks: ["React", "Angular", "Spring Boot", "Laravel", "Flutter"],
     design: ["Photoshop", "Illustrator", "Figma", "Canva"],
     
     currentMission: "Creating digital experiences that matter",
@@ -48,37 +56,67 @@ const Developer = {
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="150">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
 <br><strong>React</strong>
 </td>
-<td align="center" width="200">
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="65" height="65" />
+<br><strong>Angular</strong>
+</td>
+<td align="center" width="150">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
 <br><strong>JavaScript</strong>
 </td>
-<td align="center" width="200">
+<td align="center" width="150">
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
 <br><strong>TypeScript</strong>
 </td>
-<td align="center" width="200">
+<td align="center" width="150">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
 <br><strong>Python</strong>
 </td>
 </tr>
 <tr>
-<td align="center" width="200">
+<td align="center" width="150">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
 <br><strong>Java</strong>
 </td>
-<td align="center" width="200">
-<img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="65" height="65" />
+<br><strong>Spring Boot</strong>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="65" height="65" />
 <br><strong>C++</strong>
 </td>
-<td align="center" width="200">
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=php" alt="PHP" width="65" height="65" />
+<br><strong>PHP</strong>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="65" height="65" />
+<br><strong>Laravel</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="65" height="65" />
+<br><strong>Flutter</strong>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="150">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
 <br><strong>MySQL</strong>
 </td>
-<td align="center" width="200">
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="65" height="65" />
+<br><strong>Firebase</strong>
+</td>
+<td align="center" width="150">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 <br><strong>GitHub</strong>
 </td>
@@ -90,19 +128,19 @@ const Developer = {
 <table>
 <tr>
 <td align="center" width="200">
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" width="65" height="65" />
 <br><strong>Photoshop</strong>
 </td>
 <td align="center" width="200">
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="Illustrator" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="65" height="65" />
 <br><strong>Illustrator</strong>
 </td>
 <td align="center" width="200">
-<img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="Figma" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="65" height="65" />
 <br><strong>Figma</strong>
 </td>
 <td align="center" width="200">
-<img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="65" height="65" />
 <br><strong>Canva</strong>
 </td>
 </tr>
@@ -114,6 +152,19 @@ const Developer = {
 
 ---
 
+## 📊 NEURAL NETWORK STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=boubakri-elaa&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=boubakri-elaa&theme=synthwave&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF0080&currStreakLabel=00F7FF" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boubakri-elaa&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boubakri-elaa&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF0080&point=00F7FF" width="48%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=boubakri-elaa&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+</div>
 
 ---
 
@@ -180,19 +231,38 @@ const skills = {
     development: {
         frontend: "████████████████████ 95%",
         backend:  "█████████████████░░░ 85%",
-        database: "██████████████████░░ 90%"
+        database: "██████████████████░░ 90%",
+        mobile:   "███████████████████░ 88%"
     },
     design: {
+        uiux:     "████████████████████ 98%",
         graphics: "███████████████████░ 95%",
         branding: "█████████████████░░░ 88%"
     },
     soft_skills: {
-        creativity:    "████████████████████ 100%",
-        problem_solving: "███████████████████░ 96%",
-        teamwork:      "██████████████████░░ 92%"
+        creativity:       "████████████████████ 100%",
+        problem_solving:  "███████████████████░ 96%",
+        teamwork:         "██████████████████░░ 92%"
     }
 };
 ```
+
+---
+
+## 🎨 DESIGN PORTFOLIO HIGHLIGHTS
+
+<div align="center">
+
+| Project Type | Tools Used | Status |
+|:------------:|:----------:|:------:|
+| 🎭 Brand Identity | Illustrator, Photoshop | ✅ Complete |
+| 🌐 Web Design | Figma, React | ✅ Complete |
+| 📱 Mobile UI/UX | Figma, Flutter | 🔄 In Progress |
+| 🎬 Graphics Design | Photoshop, Canva | ✅ Complete |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
 
 ---
 
